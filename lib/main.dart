@@ -1,1 +1,4 @@
-void main()=>RunApp(myapp());
+void main()=>RunApp(myapp()); 
+
+
+class myapp{}
